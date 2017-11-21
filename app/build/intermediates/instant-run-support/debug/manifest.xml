@@ -39,12 +39,12 @@
     <uses-library android:name="com.google.android.maps" />
 
     <!-- Optional permission for Analytics to run. -->
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <meta-data
         android:name="android.support.VERSION"
-        android:value="25.3.1" /> <!-- Permissions required for GCM -->
-    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+        android:value="25.3.1" />
 
     <permission
         android:name="mb.com.moovleelogin.permission.C2D_MESSAGE"
@@ -80,7 +80,19 @@
 
         <activity
             android:name="mb.com.moovleelogin.TraceLocationActivity"
-            android:label="@string/title_activity_trace_location" />
+            android:label="@string/title_activity_trace_location"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mb.com.moovleelogin.DashboardActivity"
+            android:label="@string/title_activity_dashboard"
+            android:theme="@style/AppTheme.NoActionBar" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

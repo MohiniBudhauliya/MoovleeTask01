@@ -95,7 +95,7 @@ public class GplusSigninActivity extends AppCompatActivity implements View.OnCli
         if (result.isSuccess()) {
             // Signed in successfully, show authenticated UI.
             GoogleSignInAccount acct = result.getSignInAccount();
-            Intent gotoSigninresult=new Intent(GplusSigninActivity.this,TraceLocationActivity.class);
+            Intent gotoSigninresult=new Intent(GplusSigninActivity.this,DashboardActivity.class);
             startActivity(gotoSigninresult);
         }
     }

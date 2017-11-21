@@ -1,14 +1,60 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/mapFragmentXML">
+    android:paddingLeft="16dp"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:id="@+id/mapFragmentXML"
+    android:weightSum="1">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PickupLocation"
+        android:hint="Enter Pickup Location"
+        android:singleLine="true"
+  />
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="56dp"
+        android:id="@+id/Destination"
+        android:hint="Enter Destination"
+        android:singleLine="true"
+        android:layout_below="@+id/PickupLocation"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/PickupLocation"
+        android:layout_alignStart="@+id/PickupLocation" />
 
 <fragment
     android:id="@+id/mapFragment"
     android:name="com.google.android.gms.maps.MapFragment"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"/>
+    android:layout_height="330dp"
+    android:layout_above="@+id/toggleButton"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_marginBottom="19dp" />
 
-</LinearLayout>
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="200dp"
+        android:layout_height="33dp"
+        android:layout_gravity="center"
+        android:background="@drawable/fortogglebutton"
+        android:onClick="setPickup"
+        android:textOff="Start Ride"
+        android:textOn="Stop Ride"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="64dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="14dp" />
+
+
+</RelativeLayout>

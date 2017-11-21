@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:2:1-
 		INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:4:5-78
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:5:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Anshul\.android\build-cache\53e43acbe01a3491c2ea064af46c5092f8c1bc6d\output\AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Anshul\.android\build-cache\9abdb26b7facc52eeb39e7341c2e3667af847dc8\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Anshul\.android\build-cache\1b0effc51e7d0f185dafe635c25d36207eafa01f\output\AndroidManifest.xml:4:5-78
@@ -25,9 +25,9 @@ MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Anshul\.and
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Anshul\.android\build-cache\edec566a22fb894ad68a053a992632ec79f8febc\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Anshul\.android\build-cache\7894c5da452e74af6d2396fffb6032dba6f8458d\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:4:22-76
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:6:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Anshul\.android\build-cache\53e43acbe01a3491c2ea064af46c5092f8c1bc6d\output\AndroidManifest.xml:19:5-66
 MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Anshul\.android\build-cache\9abdb26b7facc52eeb39e7341c2e3667af847dc8\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Anshul\.android\build-cache\866a33d32e298058e02b28fbfca513a2d3886b9e\output\AndroidManifest.xml:18:5-66
@@ -41,42 +41,42 @@ MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Anshul\.and
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Anshul\.android\build-cache\edec566a22fb894ad68a053a992632ec79f8febc\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Anshul\.android\build-cache\7894c5da452e74af6d2396fffb6032dba6f8458d\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:11:5-79
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:12:5-81
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:13:22-78
 permission#mb.com.moovleelogin.permission.MAPS_RECIEVE
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:15:5-113
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:18:5-20:47
 	android:protectionLevel
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:15:76-111
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:20:9-44
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:15:17-75
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:19:9-67
 uses-permission#mb.com.moovleelogin.permission.MAPS_RECIEVE
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:16:5-82
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:22:5-83
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:16:22-80
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:22:22-80
 uses-permission#com.google.android.providers.gsf.permissions.READ_GSERVICES
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:18:5-98
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:24:5-99
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:18:22-96
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:24:22-96
 uses-feature#0x00020000
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:21:5-77
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:29:5-31:35
 MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Anshul\.android\build-cache\be52384c5a6e265643fc842543f59a9a26ade704\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:21:19-51
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:30:9-41
 	android:required
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:21:52-75
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:31:9-32
 uses-library#com.google.android.maps
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:22:5-60
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:33:5-60
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:22:19-57
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:33:19-57
 application
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:24:5-53:19
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:35:5-76:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anshul\.android\build-cache\ba691375021f912841b9e60d830ec0dba9f260b9\output\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Anshul\.android\build-cache\28d59039fe44943df98eb448178ba96dddfb11a5\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Anshul\.android\build-cache\53e43acbe01a3491c2ea064af46c5092f8c1bc6d\output\AndroidManifest.xml:23:5-26:19
@@ -86,9 +86,6 @@ MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Anshul\.
 MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Anshul\.android\build-cache\50353c2244a4154291bc0579388414a85df182fe\output\AndroidManifest.xml:4:5-8:19
 MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Anshul\.android\build-cache\b22872d35dd87521b0440f8353447072fca8a2cc\output\AndroidManifest.xml:18:5-19
 MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Anshul\.android\build-cache\5350d6ef6ea03960de710027387d3e72550bdcf1\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\b857295ff696439331e758e48583974f519dff8a\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\9ce85c74bf4b8663055ece0ead72e5a1d9a96bbe\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Anshul\.android\build-cache\ae0e7ba0f33620dee668f720ac11cfe2969ca53b\output\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Anshul\.android\build-cache\546a51065036e7cbf6276bf17b5854175d7a22e0\output\AndroidManifest.xml:18:5-19
 MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Anshul\.android\build-cache\d1b7fb16ef9c968094f9c43b1f81bcc05a5097be\output\AndroidManifest.xml:18:5-19
@@ -119,6 +116,11 @@ MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Ansh
 MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Anshul\.android\build-cache\d18a7cb2d39e3df7d7000eba555b96c9a79f8d03\output\AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Anshul\.android\build-cache\be52384c5a6e265643fc842543f59a9a26ade704\output\AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Anshul\.android\build-cache\ff3777e88214c2be760c9e15d9923b83ecd572c4\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\b857295ff696439331e758e48583974f519dff8a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\9ce85c74bf4b8663055ece0ead72e5a1d9a96bbe\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Anshul\.android\build-cache\b3d9103db862cc6344b24d85cf5e5fe3733d93d4\output\AndroidManifest.xml:26:5-20
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Anshul\.android\build-cache\b18394cc4d2b4882c1fbb84c7c53d72ce2268ce7\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Anshul\.android\build-cache\24f5125ec88e47ea9d9018871eefce833456e00f\output\AndroidManifest.xml:24:5-34:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Anshul\.android\build-cache\edec566a22fb894ad68a053a992632ec79f8febc\output\AndroidManifest.xml:24:5-28:19
@@ -133,43 +135,55 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anshul\.androi
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anshul\.android\build-cache\0ee15cf15ff2ca0776d0a039e908177212de5c69\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anshul\.android\build-cache\f15372dde2fab04a21151e8c6afd5b1b2295af9b\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:27:9-41
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:38:9-41
 	android:supportsRtl
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:29:9-35
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:40:9-35
 	android:roundIcon
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:28:9-54
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:39:9-54
 	android:allowBackup
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:36:9-35
 	android:icon
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:26:9-43
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:37:9-43
 	android:theme
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:30:9-40
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:41:9-40
 activity#mb.com.moovleelogin.GplusSigninActivity
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:31:9-37:20
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:42:9-48:20
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:31:19-54
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:42:19-54
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:43:13-47:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:44:17-69
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:44:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:46:17-77
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:46:27-74
 meta-data#com.google.android.geo.API_KEY
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:46:9-48:55
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:57:9-59:55
 	android:value
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:48:13-52
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:59:13-52
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:47:13-58
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:58:13-58
 activity#mb.com.moovleelogin.TraceLocationActivity
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:50:9-52:68
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:61:9-71:20
 	android:label
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:52:13-66
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:63:13-66
+	android:roundIcon
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:64:13-58
+	android:theme
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:65:13-44
 	android:name
-		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:51:13-50
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:62:13-50
+activity#mb.com.moovleelogin.DashboardActivity
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:72:9-75:68
+	android:label
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:74:13-61
+	android:theme
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:73:13-46
 uses-sdk
 INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anshul\.android\build-cache\ba691375021f912841b9e60d830ec0dba9f260b9\output\AndroidManifest.xml:5:5-7:41
@@ -184,9 +198,6 @@ MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Ans
 MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Anshul\.android\build-cache\50353c2244a4154291bc0579388414a85df182fe\output\AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Anshul\.android\build-cache\b22872d35dd87521b0440f8353447072fca8a2cc\output\AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Anshul\.android\build-cache\5350d6ef6ea03960de710027387d3e72550bdcf1\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\b857295ff696439331e758e48583974f519dff8a\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\9ce85c74bf4b8663055ece0ead72e5a1d9a96bbe\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Anshul\.android\build-cache\ae0e7ba0f33620dee668f720ac11cfe2969ca53b\output\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Anshul\.android\build-cache\546a51065036e7cbf6276bf17b5854175d7a22e0\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Anshul\.android\build-cache\d1b7fb16ef9c968094f9c43b1f81bcc05a5097be\output\AndroidManifest.xml:17:5-43
@@ -224,6 +235,12 @@ MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Ansh
 MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Anshul\.android\build-cache\d18a7cb2d39e3df7d7000eba555b96c9a79f8d03\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Anshul\.android\build-cache\be52384c5a6e265643fc842543f59a9a26ade704\output\AndroidManifest.xml:23:5-43
 MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Anshul\.android\build-cache\ff3777e88214c2be760c9e15d9923b83ecd572c4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\b857295ff696439331e758e48583974f519dff8a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\9ce85c74bf4b8663055ece0ead72e5a1d9a96bbe\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\d038ff52eb859f5b02827c752e273d65a21a7010\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Anshul\.android\build-cache\b3d9103db862cc6344b24d85cf5e5fe3733d93d4\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Anshul\.android\build-cache\b18394cc4d2b4882c1fbb84c7c53d72ce2268ce7\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Anshul\.android\build-cache\24f5125ec88e47ea9d9018871eefce833456e00f\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Anshul\.android\build-cache\edec566a22fb894ad68a053a992632ec79f8febc\output\AndroidManifest.xml:17:5-43
@@ -238,7 +255,7 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anshul\.androi
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anshul\.android\build-cache\0ee15cf15ff2ca0776d0a039e908177212de5c69\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anshul\.android\build-cache\f15372dde2fab04a21151e8c6afd5b1b2295af9b\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml
@@ -309,20 +326,6 @@ service#com.google.android.gms.cast.framework.ReconnectionService
 ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Anshul\.android\build-cache\50353c2244a4154291bc0579388414a85df182fe\output\AndroidManifest.xml:7:9-92
 	android:name
 		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Anshul\.android\build-cache\50353c2244a4154291bc0579388414a85df182fe\output\AndroidManifest.xml:7:18-90
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\b857295ff696439331e758e48583974f519dff8a\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\9ce85c74bf4b8663055ece0ead72e5a1d9a96bbe\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anshul\.android\build-cache\bb7e0623fbf0cd752af1aed67641c0d265209b69\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anshul\.android\build-cache\4d009b64f4ac59eb81bbe12cd153b6464ed65da3\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anshul\.android\build-cache\d80958b4e73a99c236d41cf7b5395af7b6165c99\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anshul\.android\build-cache\9253733dc01c1493f1aaded33bd3c9a0c1be4564\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anshul\.android\build-cache\0ee15cf15ff2ca0776d0a039e908177212de5c69\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anshul\.android\build-cache\f15372dde2fab04a21151e8c6afd5b1b2295af9b\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:26:9-47
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Anshul\.android\build-cache\998a8fd1bdfb6d62438fb7199c739cd416f5fc17\output\AndroidManifest.xml:23:9-27:19
 	android:exported
@@ -381,6 +384,23 @@ ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Anshul\.a
 		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Anshul\.android\build-cache\ff3777e88214c2be760c9e15d9923b83ecd572c4\output\AndroidManifest.xml:19:86-145
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Anshul\.android\build-cache\ff3777e88214c2be760c9e15d9923b83ecd572c4\output\AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\b857295ff696439331e758e48583974f519dff8a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\9ce85c74bf4b8663055ece0ead72e5a1d9a96bbe\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\d038ff52eb859f5b02827c752e273d65a21a7010\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Anshul\.android\build-cache\b3d9103db862cc6344b24d85cf5e5fe3733d93d4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anshul\.android\build-cache\bb7e0623fbf0cd752af1aed67641c0d265209b69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anshul\.android\build-cache\4d009b64f4ac59eb81bbe12cd153b6464ed65da3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anshul\.android\build-cache\d80958b4e73a99c236d41cf7b5395af7b6165c99\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anshul\.android\build-cache\9253733dc01c1493f1aaded33bd3c9a0c1be4564\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anshul\.android\build-cache\0ee15cf15ff2ca0776d0a039e908177212de5c69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anshul\.android\build-cache\f15372dde2fab04a21151e8c6afd5b1b2295af9b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:26:9-47
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
 ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Anshul\.android\build-cache\24f5125ec88e47ea9d9018871eefce833456e00f\output\AndroidManifest.xml:25:7-26:18
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Anshul\.android\build-cache\edec566a22fb894ad68a053a992632ec79f8febc\output\AndroidManifest.xml:25:7-26:18

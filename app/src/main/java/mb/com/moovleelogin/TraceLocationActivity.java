@@ -9,7 +9,12 @@ import android.location.LocationManager;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
+import android.widget.ToggleButton;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
@@ -26,17 +31,20 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import java.io.IOException;
 import java.util.List;
 
-public class TraceLocationActivity extends FragmentActivity implements OnMapReadyCallback {
+public class TraceLocationActivity extends AppCompatActivity implements OnMapReadyCallback, View.OnClickListener {
 
     private GoogleMap map;
     private LocationManager locationManager;
-
+    ToggleButton startRide;
+    EditText enterPickUp;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         if (isGoogleServiceAvailable()) {
             Toast.makeText(this, "Perfect", Toast.LENGTH_SHORT).show();
             setContentView(R.layout.activity_trace_location);
+            startRide=(ToggleButton) findViewById(R.id.toggleButton);
+            enterPickUp=(EditText) findViewById(R.id.PickupLocation);
             initMap();
         } else {
             Toast.makeText(this, "No Google Map", Toast.LENGTH_SHORT).show();
@@ -170,4 +178,45 @@ public class TraceLocationActivity extends FragmentActivity implements OnMapRead
     public void onMapReady(GoogleMap googleMap) {
         map = googleMap;
     }
+    String pickUpLpcation="";
+    public  void enterPickUp()
+    {
+         pickUpLpcation=enterPickUp.getText().toString();;
+    }
+    public void setPickup(View view) throws IOException {
+        enterPickUp();
+        Geocoder gc=new Geocoder(getApplicationContext());
+        List<android.location.Address> pickUpArray= gc.getFromLocationName(pickUpLpcation,1);
+        try {
+            pickUpArray = gc.getFromLocationName(pickUpLpcation,1);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        android.location.Address adr=pickUpArray.get(0);
+        double lat=adr.getLatitude();
+        double lon=adr.getLongitude();
+        LatLng latLng=new LatLng(lat,lon);
+        String exactPickup=pickUpArray.get(0).getLocality()+"";
+        exactPickup+=pickUpArray.get(0).getCountryName();
+        map.addMarker(new MarkerOptions().position(latLng).title(exactPickup));
+        map.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng,10.2f));
+    }
+
+    @Override
+    public void onClick(View v) {
+        int id=v.getId();
+        switch (id)
+        {
+            case R.id.toggleButton:
+                try {
+                    setPickup(v);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                break;
+        }
+    }
+
+
+
 }
