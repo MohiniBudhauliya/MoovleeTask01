@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\6f13a02a93ef84c73a4da808c5febe5e478832db\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\6f13a02a93ef84c73a4da808c5febe5e478832db\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\6f13a02a93ef84c73a4da808c5febe5e478832db\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    }
+]

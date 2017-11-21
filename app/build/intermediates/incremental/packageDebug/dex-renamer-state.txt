@@ -1,0 +1,7 @@
+#Tue Nov 21 13:38:33 IST 2017
+base.0=D\:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b74a51aff73f07c647d57dd5b3146d603635b86e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e392f9c0c0124ddcbb184108b905d3cec35c0c65\\classes.dex
+base.1=D\:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e392f9c0c0124ddcbb184108b905d3cec35c0c65
+file.0=D\:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b74a51aff73f07c647d57dd5b3146d603635b86e\\classes.dex
