@@ -39,7 +39,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".GplusSigninActivity">
+        <activity android:name=".Activities.GplusSigninActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -59,7 +59,7 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".TraceLocationActivity"
+            android:name=".Activities.TraceLocationActivity"
             android:label="@string/title_activity_trace_location"
             android:roundIcon="@mipmap/ic_launcher_round"
             android:theme="@style/AppTheme">
@@ -70,7 +70,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DashboardActivity"
+            android:name=".Activities.DashboardActivity"
             android:label="@string/title_activity_dashboard"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>

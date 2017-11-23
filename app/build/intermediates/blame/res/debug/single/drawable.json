@@ -48,20 +48,20 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\ff3777e88214c2be760c9e15d9923b83ecd572c4\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\ff3777e88214c2be760c9e15d9923b83ecd572c4\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
         "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
@@ -132,12 +132,12 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\5350d6ef6ea03960de710027387d3e72550bdcf1\\output\\res\\drawable\\mr_dialog_close_light.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
@@ -204,16 +204,16 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\2e5b4162be734bd5312678f863bb1214234d7fa5\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\2e5b4162be734bd5312678f863bb1214234d7fa5\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
@@ -428,12 +428,12 @@
         "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\drawable\\getroundbuttonforrest.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\b22872d35dd87521b0440f8353447072fca8a2cc\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\b22872d35dd87521b0440f8353447072fca8a2cc\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",

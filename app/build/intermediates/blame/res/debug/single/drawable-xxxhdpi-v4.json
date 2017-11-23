@@ -108,12 +108,12 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_group_collapse_09.png",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\5350d6ef6ea03960de710027387d3e72550bdcf1\\output\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_09.png"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_36.png",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_36.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_group_collapse_09.png",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\5350d6ef6ea03960de710027387d3e72550bdcf1\\output\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_09.png"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",

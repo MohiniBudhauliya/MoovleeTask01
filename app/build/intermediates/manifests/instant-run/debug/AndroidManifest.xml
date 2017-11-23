@@ -59,7 +59,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="mb.com.moovleelogin.GplusSigninActivity" >
+        <activity android:name="mb.com.moovleelogin.Activities.GplusSigninActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -79,7 +79,7 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="mb.com.moovleelogin.TraceLocationActivity"
+            android:name="mb.com.moovleelogin.Activities.TraceLocationActivity"
             android:label="@string/title_activity_trace_location"
             android:roundIcon="@mipmap/ic_launcher_round"
             android:theme="@style/AppTheme" >
@@ -90,7 +90,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="mb.com.moovleelogin.DashboardActivity"
+            android:name="mb.com.moovleelogin.Activities.DashboardActivity"
             android:label="@string/title_activity_dashboard"
             android:theme="@style/AppTheme.NoActionBar" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
