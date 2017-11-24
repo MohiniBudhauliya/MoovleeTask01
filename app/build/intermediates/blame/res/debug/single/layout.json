@@ -20,6 +20,10 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cardvieworderdetails.xml",
+        "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\layout\\cardvieworderdetails.xml"
+    },
+    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
@@ -90,6 +94,10 @@
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ridehistory.xml",
+        "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\layout\\activity_ridehistory.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",

@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="mb.com.moovleelogin.Activities.DashboardActivity"
-    tools:showIn="@layout/app_bar_dashboard">
+    tools:showIn="@layout/app_bar_dashboard"
+    android:id="@+id/showRide">
 
     <EditText
         android:layout_width="match_parent"

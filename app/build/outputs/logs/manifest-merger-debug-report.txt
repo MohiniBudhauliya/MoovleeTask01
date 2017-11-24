@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:2:1-78:12
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:2:1-79:12
 	package
 		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml
@@ -76,7 +76,8 @@ ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:33:5
 	android:name
 		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:33:19-57
 application
-ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:35:5-76:19
+ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:35:5-77:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\6fd5ca04fa5e9cd489ef630c9a60a9c6ad3be9b5\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anshul\.android\build-cache\ba691375021f912841b9e60d830ec0dba9f260b9\output\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Anshul\.android\build-cache\28d59039fe44943df98eb448178ba96dddfb11a5\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Anshul\.android\build-cache\53e43acbe01a3491c2ea064af46c5092f8c1bc6d\output\AndroidManifest.xml:23:5-26:19
@@ -186,6 +187,7 @@ ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:72:9
 		ADDED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml:73:13-57
 uses-sdk
 INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\6fd5ca04fa5e9cd489ef630c9a60a9c6ad3be9b5\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anshul\.android\build-cache\ba691375021f912841b9e60d830ec0dba9f260b9\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Anshul\.android\build-cache\28d59039fe44943df98eb448178ba96dddfb11a5\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\Anshul\.android\build-cache\e492c141a7781184d6a6dbfcb584ffbbcc869aeb\output\AndroidManifest.xml:17:5-43
@@ -262,6 +264,24 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anshul\.android
 	android:minSdkVersion
 		INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidProjects\MoovleeLogin\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\6fd5ca04fa5e9cd489ef630c9a60a9c6ad3be9b5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\b857295ff696439331e758e48583974f519dff8a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\9ce85c74bf4b8663055ece0ead72e5a1d9a96bbe\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\d038ff52eb859f5b02827c752e273d65a21a7010\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Anshul\.android\build-cache\b3d9103db862cc6344b24d85cf5e5fe3733d93d4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anshul\.android\build-cache\bb7e0623fbf0cd752af1aed67641c0d265209b69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anshul\.android\build-cache\4d009b64f4ac59eb81bbe12cd153b6464ed65da3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anshul\.android\build-cache\d80958b4e73a99c236d41cf7b5395af7b6165c99\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anshul\.android\build-cache\9253733dc01c1493f1aaded33bd3c9a0c1be4564\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anshul\.android\build-cache\0ee15cf15ff2ca0776d0a039e908177212de5c69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anshul\.android\build-cache\f15372dde2fab04a21151e8c6afd5b1b2295af9b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\6fd5ca04fa5e9cd489ef630c9a60a9c6ad3be9b5\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\6fd5ca04fa5e9cd489ef630c9a60a9c6ad3be9b5\output\AndroidManifest.xml:23:9-47
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Anshul\.android\build-cache\53e43acbe01a3491c2ea064af46c5092f8c1bc6d\output\AndroidManifest.xml:25:9-232
 	android:configChanges
@@ -384,23 +404,6 @@ ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Anshul\.a
 		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Anshul\.android\build-cache\ff3777e88214c2be760c9e15d9923b83ecd572c4\output\AndroidManifest.xml:19:86-145
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Anshul\.android\build-cache\ff3777e88214c2be760c9e15d9923b83ecd572c4\output\AndroidManifest.xml:19:19-85
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anshul\.android\build-cache\4d6d768afb770885fd55130ea19c0e7c455dc3ce\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\b857295ff696439331e758e48583974f519dff8a\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anshul\.android\build-cache\9ce85c74bf4b8663055ece0ead72e5a1d9a96bbe\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Anshul\.android\build-cache\d038ff52eb859f5b02827c752e273d65a21a7010\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Anshul\.android\build-cache\b3d9103db862cc6344b24d85cf5e5fe3733d93d4\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anshul\.android\build-cache\bb7e0623fbf0cd752af1aed67641c0d265209b69\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anshul\.android\build-cache\4d009b64f4ac59eb81bbe12cd153b6464ed65da3\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anshul\.android\build-cache\d80958b4e73a99c236d41cf7b5395af7b6165c99\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anshul\.android\build-cache\9253733dc01c1493f1aaded33bd3c9a0c1be4564\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anshul\.android\build-cache\0ee15cf15ff2ca0776d0a039e908177212de5c69\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anshul\.android\build-cache\f15372dde2fab04a21151e8c6afd5b1b2295af9b\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Anshul\.android\build-cache\2e5b4162be734bd5312678f863bb1214234d7fa5\output\AndroidManifest.xml:26:9-47
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
 ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Anshul\.android\build-cache\24f5125ec88e47ea9d9018871eefce833456e00f\output\AndroidManifest.xml:25:7-26:18
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Anshul\.android\build-cache\edec566a22fb894ad68a053a992632ec79f8febc\output\AndroidManifest.xml:25:7-26:18

@@ -1,10 +1,10 @@
 package mb.com.moovleelogin.Activities;
 
 import android.app.Dialog;
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
 import android.content.Context;
 import android.content.pm.PackageManager;
-import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteOpenHelper;
 import android.location.Address;
 import android.location.Geocoder;
 import android.location.Location;
@@ -41,17 +41,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import mb.com.moovleelogin.DataBase.DatabaseHelper;
 import mb.com.moovleelogin.R;
 import mb.com.moovleelogin.UserRelatedClasses.CircularTransformation;
 import mb.com.moovleelogin.UserRelatedClasses.CreatePolyLine;
-import mb.com.moovleelogin.UserRelatedClasses.LoginUserDetails;
 
 public class DashboardActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener,OnMapReadyCallback, View.OnClickListener {
 
-    private static long INTERVAL=1000 * 30 * 1;
-    private static float SMALLEST_DISPLACEMENT=0.1F;//0.25F;
+    private static long INTERVAL = 1000 * 30 * 1;
+    private static float SMALLEST_DISPLACEMENT = 0.1F;//0.25F;
     ToggleButton startRide;
     EditText enterPickUp;
     public TextView userName, userEmail;
@@ -63,6 +61,9 @@ public class DashboardActivity extends AppCompatActivity
 
     public static ArrayList<LatLng> points = new ArrayList<>();
     LatLng latLng;
+
+    android.support.v4.app.FragmentManager manager = getSupportFragmentManager();   //Initializing Fragment Manager
+    RideHistoryActivities rideFragment = new RideHistoryActivities();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -190,7 +191,6 @@ public class DashboardActivity extends AppCompatActivity
     }
 
 
-
     public void updateUI() {
         //Getting information from gamilsigninactivity
 
@@ -303,16 +303,15 @@ public class DashboardActivity extends AppCompatActivity
 
     }
 
-    public GoogleMap getMap()
-    {
+    public GoogleMap getMap() {
         return map;
     }
-    public Location getLocation()
-    {
+
+    public Location getLocation() {
         return CurrentLocation;
     }
-    public ArrayList<LatLng> getPoints()
-    {
+
+    public ArrayList<LatLng> getPoints() {
         return points;
     }
 
@@ -321,7 +320,13 @@ public class DashboardActivity extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
-        } else {
+        }
+        else if(rideFragment!=null) {
+            android.support.v4.app.FragmentTransaction transaction = manager.beginTransaction();
+            transaction.remove(rideFragment);
+            transaction.commit();
+        }
+        else {
             super.onBackPressed();
         }
     }
@@ -359,11 +364,23 @@ public class DashboardActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.rideHistory) {
-             //Handle the ride history
+            //Handle the ride history
+            android.support.v4.app.FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+            transaction.replace(R.id.showRide, rideFragment);
+            transaction.commit();
+            transaction.show(rideFragment);
+        } else if (id == R.id.Home) {
+            if (rideFragment != null) {
+                android.support.v4.app.FragmentTransaction transaction = manager.beginTransaction();
+                transaction.remove(rideFragment);
+                transaction.commit();
+            }
         }
 
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        drawer.closeDrawer(GravityCompat.START);
-        return true;
+
+            DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+            drawer.closeDrawer(GravityCompat.START);
+            return true;
+        }
     }
-}
+

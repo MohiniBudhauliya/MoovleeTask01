@@ -296,12 +296,12 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable-mdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png",

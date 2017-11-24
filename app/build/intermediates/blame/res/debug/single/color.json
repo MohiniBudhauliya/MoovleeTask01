@@ -1,35 +1,35 @@
 [
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\d1aff60310d1e095d50700e19a3528669273b001\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",

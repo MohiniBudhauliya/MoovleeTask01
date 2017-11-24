@@ -52,6 +52,10 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
     },
     {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img4cardview.jpg",
+        "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\drawable\\img4cardview.jpg"
+    },
+    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\ff3777e88214c2be760c9e15d9923b83ecd572c4\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
