@@ -110,7 +110,7 @@ public class GplusSigninActivity extends AppCompatActivity implements View.OnCli
             // Signed in successfully, show authenticated UI.
             GoogleSignInAccount acct = result.getSignInAccount();
 
-            Intent gotoDashboardActivity=new Intent(GplusSigninActivity.this,DashboardActivity.class);
+            Intent gotoDashboardActivity=new Intent(GplusSigninActivity.this,DashboardActivity.class);//DashboardActivity.class
               //inserting record in to table
               userdetail.setName(acct.getDisplayName());
               userdetail.setEmail(acct.getEmail());

@@ -21,6 +21,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -45,6 +46,7 @@ import java.util.List;
 import mb.com.moovleelogin.R;
 import mb.com.moovleelogin.UserRelatedClasses.CircularTransformation;
 import mb.com.moovleelogin.UserRelatedClasses.CreatePolyLine;
+
 
 public class DashboardActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener,OnMapReadyCallback, View.OnClickListener {
@@ -367,7 +369,7 @@ public class DashboardActivity extends AppCompatActivity
         if (id == R.id.rideHistory) {
             //Handle the ride history
             android.support.v4.app.FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-            transaction.replace(R.id.showRide, rideFragment);
+            transaction.replace(R.id.showRide, rideFragment);//R.id.showRide
             transaction.commit();
             transaction.show(rideFragment);
         } else if (id == R.id.Home) {

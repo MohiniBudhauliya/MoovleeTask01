@@ -1,4 +1,4 @@
-#Fri Nov 24 17:37:51 IST 2017
+#Sat Nov 25 13:00:35 IST 2017
 base.0=D\:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b74a51aff73f07c647d57dd5b3146d603635b86e
 renamed.1=classes.dex
 renamed.0=classes2.dex

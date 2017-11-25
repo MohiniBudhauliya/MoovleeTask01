@@ -20,6 +20,10 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m.jpg",
+        "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\drawable\\m.jpg"
+    },
+    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
@@ -400,6 +404,10 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\ff3777e88214c2be760c9e15d9923b83ecd572c4\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headimg.jpg",
+        "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\drawable\\headimg.jpg"
+    },
+    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\5350d6ef6ea03960de710027387d3e72550bdcf1\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
     },
@@ -410,6 +418,10 @@
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moovleeimg.png",
+        "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\drawable\\moovleeimg.png"
     },
     {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
