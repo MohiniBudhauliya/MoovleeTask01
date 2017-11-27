@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="22"
     build-mode="FULL"
-    density="hdpi"
+    density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1511595030025"
+    timestamp="1511766735842"
     token="8130514351918027832"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,22 +18,13 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="881" />
     <task
         name="verifier"
-        duration="0" />
+        duration="392" />
 
     <artifact
-        location="D:\AndroidProjects\MoovleeLogin\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
         location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -42,13 +33,19 @@
         location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
+        location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
         location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
         location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
         location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
@@ -59,22 +56,16 @@
     <artifact
         location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
+    <artifact
+        location="D:\AndroidProjects\MoovleeLogin\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1511595030025"
+        timestamp="1511766735842"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\AndroidProjects\MoovleeLogin\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -83,13 +74,19 @@
             location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
+            location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
@@ -100,6 +97,9 @@
         <artifact
             location="D:\AndroidProjects\MoovleeLogin\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\MoovleeLogin\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

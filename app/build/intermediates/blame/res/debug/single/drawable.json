@@ -420,10 +420,6 @@
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\50353c2244a4154291bc0579388414a85df182fe\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moovleeimg.png",
-        "source": "D:\\AndroidProjects\\MoovleeLogin\\app\\src\\main\\res\\drawable\\moovleeimg.png"
-    },
-    {
         "merged": "D:\\AndroidProjects\\MoovleeLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\Anshul\\.android\\build-cache\\4d6d768afb770885fd55130ea19c0e7c455dc3ce\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
